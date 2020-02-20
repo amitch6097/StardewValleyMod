@@ -1,0 +1,10 @@
+﻿{
+  "Name": "stardiew-valley-mod",
+  "Author": "andrew-mitchell",
+  "Version": "1.0.0",
+  "Description": "tomod",
+  "UniqueID": "andrew-mitchell-stardiew-valley-mod",
+  "EntryDll": "StardewValleyMod.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
